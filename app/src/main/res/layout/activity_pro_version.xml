@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_marginTop="40dp"
+        android:paddingTop="20dp"
+        android:layout_marginBottom="40dp"
+        android:layout_height="104dp"
+        android:textAlignment="center"
+        android:text="Buy this app and get rid of the annoying ads. NO ADS PRO VERSION!" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginEnd="125dp"
+        android:layout_marginStart="125dp"
+        android:text="Buy PRO version" />
+
+</LinearLayout>
